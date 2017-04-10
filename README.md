@@ -7,6 +7,14 @@
 Для начала думаю сделать это только с одним ардуино и общение будет происходить с ноутбуком.
 
 Необходимо:
-[LCD](http://amperka.ru/product/text-lcd-16x2)
-[WI-FI](http://amperka.ru/product/esp8266-wifi-module)
+
+[LCD](http://amperka.ru/product/text-lcd-8x2)
+
+[datasheet LCD](http://files.amperka.ru/datasheets/MT-08S2A.pdf)
+
+[Bluetooth](http://amperka.ru/product/hc-06-bluetooth-module)
+
+[configuration Bluetooth with arduino] (http://42bots.com/tutorials/hc-06-bluetooth-module-datasheet-and-configuration-with-arduino/)
+
+[datasheet Bluetooth](http://silabs.org.ua/bc4/hc06.pdf)
 
