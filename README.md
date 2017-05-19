@@ -14,7 +14,7 @@
 
 [Bluetooth](http://amperka.ru/product/hc-06-bluetooth-module)
 
-[configuration Bluetooth with arduino] (http://42bots.com/tutorials/hc-06-bluetooth-module-datasheet-and-configuration-with-arduino/)
+[configuration Bluetooth with arduino](http://42bots.com/tutorials/hc-06-bluetooth-module-datasheet-and-configuration-with-arduino/)
 
 [datasheet Bluetooth](http://silabs.org.ua/bc4/hc06.pdf)
 
